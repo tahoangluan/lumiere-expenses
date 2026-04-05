@@ -20,7 +20,7 @@ Lumiere Expenses is a modern and elegant expense tracking app designed to help y
 ## 📩 Support
 If you have any questions or issues, feel free to contact:
 
-Email: your-email@example.com
+Email:hoangluan61292@gmail.com
 
 ## 🔒 Privacy Policy
 https://github.com/tahoangluan/privacy-policy
